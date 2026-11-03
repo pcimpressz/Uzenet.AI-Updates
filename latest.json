@@ -1,7 +1,7 @@
 {
-  "versionCode": 10067,
-  "versionName": "0.2.67",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10067/app-release.apk",
-  "sha256": "b140a35068659a17e2089a08dddb8f1f497738361ba19fd372474ad5553fb658",
-  "releaseNotes": "- feat(voice): introduce low-power offline wake audio capture"
+  "versionCode": 10068,
+  "versionName": "0.2.68",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10068/app-release.apk",
+  "sha256": "d11bc2896c751da814f4e7e121165f84188de84dafc9d8f7d94e2a4f87efe632",
+  "releaseNotes": "- fix(voice): do not treat named conversation requests as latest-message read; add tests"
 }
