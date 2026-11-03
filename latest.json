@@ -1,7 +1,7 @@
 {
-  "versionCode": 200071,
-  "versionName": "0.2.71",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v200071/app-release.apk",
-  "sha256": "b53d9913bf3323be3626e06e584bed53edd93a570a6ea28a70d5694b5c2c48b9",
-  "releaseNotes": "- hotfix(voice): restore proven Hungarian speech wake fallback after offline model regression"
+  "versionCode": 200072,
+  "versionName": "0.2.72",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v200072/app-release.apk",
+  "sha256": "6b27daff50763f7ad7a6e93c9433f8d8f42dbee1f5cd9d2352b04288f2049212",
+  "releaseNotes": "- feat(android): private family wake sample recording with per-speaker deletion and parental consent"
 }
