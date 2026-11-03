@@ -2,5 +2,6 @@
   "versionCode": 10027,
   "versionName": "0.2.27",
   "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10027/app-release.apk",
-  "sha256": "b8a6814f43687beddb28fbc60bcd290442fcf38e19b3ecbf1000c7301ab589e8"
+  "sha256": "b8a6814f43687beddb28fbc60bcd290442fcf38e19b3ecbf1000c7301ab589e8",
+  "releaseNotes": "Újdonságok: helyi SQLite-üzenettárolás, beszélgetések csoportosítása, részletes előzmények, keresés és felolvasás."
 }
