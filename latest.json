@@ -1,7 +1,7 @@
 {
-  "versionCode": 10065,
-  "versionName": "0.2.65",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10065/app-release.apk",
-  "sha256": "f1db18c39ef58c96206d861c3f8186a537af0c8ce66afcc6b49c0ed3df145def",
-  "releaseNotes": "- fix(voice): reliable wake dialogue, sender reading and bounded recognition retries"
+  "versionCode": 10066,
+  "versionName": "0.2.66",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10066/app-release.apk",
+  "sha256": "9913fc89abe48926f05ae22cbaff6dcb96e45addd96c8a4de64b016f37404948",
+  "releaseNotes": "- fix(voice): return to wake-only mode after each completed command and recover from speech errors"
 }
