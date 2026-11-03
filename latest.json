@@ -1,7 +1,7 @@
 {
-  "versionCode": 10064,
-  "versionName": "0.2.64",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10064/app-release.apk",
-  "sha256": "ddde20aca65b8f3994b00ac9b0e65380b9f8f3608379d4069f778680c242a9b3",
-  "releaseNotes": "- feat(voice): search saved messages by spoken Hungarian query"
+  "versionCode": 10065,
+  "versionName": "0.2.65",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10065/app-release.apk",
+  "sha256": "f1db18c39ef58c96206d861c3f8186a537af0c8ce66afcc6b49c0ed3df145def",
+  "releaseNotes": "- fix(voice): reliable wake dialogue, sender reading and bounded recognition retries"
 }
