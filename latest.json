@@ -1,7 +1,7 @@
 {
-  "versionCode": 10069,
-  "versionName": "0.2.69",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10069/app-release.apk",
-  "sha256": "0e634aaef5664468958af9fc2b43f29a21cb8f117d9dd9fa690fff84057c1276",
-  "releaseNotes": "- fix(wake): handle microphone permissions, failures and main-thread callbacks"
+  "versionCode": 200070,
+  "versionName": "0.2.70",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v200070/app-release.apk",
+  "sha256": "1e260a488302e63637e8a2c49d30cecf567586ca6a98ed0df08cec522842d843",
+  "releaseNotes": "- fix(release): publish main branch with bundled wake model and monotonic signed version codes"
 }
