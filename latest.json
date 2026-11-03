@@ -1,7 +1,7 @@
 {
-  "versionCode": 200070,
-  "versionName": "0.2.70",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v200070/app-release.apk",
-  "sha256": "1e260a488302e63637e8a2c49d30cecf567586ca6a98ed0df08cec522842d843",
-  "releaseNotes": "- fix(release): publish main branch with bundled wake model and monotonic signed version codes"
+  "versionCode": 200071,
+  "versionName": "0.2.71",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v200071/app-release.apk",
+  "sha256": "b53d9913bf3323be3626e06e584bed53edd93a570a6ea28a70d5694b5c2c48b9",
+  "releaseNotes": "- hotfix(voice): restore proven Hungarian speech wake fallback after offline model regression"
 }
