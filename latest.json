@@ -1,7 +1,7 @@
 {
-  "versionCode": 10050,
-  "versionName": "0.2.50",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10050/app-release.apk",
-  "sha256": "df9e8b0cc445440013d77e6ff25ddcac02368f048c2b44a760507fc9ef9568e6",
+  "versionCode": 10051,
+  "versionName": "0.2.51",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10051/app-release.apk",
+  "sha256": "31c83c950112f0fa62f07a08ac51172656d73752967ca2bbd04d4ee7981f9988",
   "releaseNotes": "Újdonságok: megújult beszélgetéslista, kedvencek és olvasatlan szűrő, világos/sötét téma, külön beállítások, csendes időszak."
 }
