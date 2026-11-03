@@ -1,7 +1,7 @@
 {
-  "versionCode": 10044,
-  "versionName": "0.2.44",
-  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10044/app-release.apk",
-  "sha256": "b0084667df27394982c5a7993929c51e2df02d2980e809696c8f82cac3ebee06",
+  "versionCode": 10047,
+  "versionName": "0.2.47",
+  "apkUrl": "https://github.com/pcimpressz/Uzenet.AI-Updates/releases/download/v10047/app-release.apk",
+  "sha256": "90f5262cae0d114bad68c1109f8d1551fafe320b60fa57ec24efbd698ee5cdde",
   "releaseNotes": "Újdonságok és javítások: helyi SQLite üzenettárolás; feladónként csoportosított beszélgetések; részletes üzenetelőzmények; keresés, alkalmazásszűrés és felolvasás; kiadási változáslista."
 }
